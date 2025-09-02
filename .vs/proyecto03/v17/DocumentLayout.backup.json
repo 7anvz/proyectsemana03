@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\proyecxx\\proyecto03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{292873B3-A482-4132-BBB6-BE3CFE1CC1C7}|proyectpython\\proyectpython.pyproj|C:\\Users\\UPN\\Downloads\\proyecxx\\proyecto03\\proyectpython\\proyectpython.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{292873B3-A482-4132-BBB6-BE3CFE1CC1C7}|proyectpython\\proyectpython.pyproj|solutionrelative:proyectpython\\proyectpython.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718C6FF-0B05-4FA2-9046-6238E7A7BCF5}|proyecto03\\proyecto03.csproj|c:\\users\\upn\\downloads\\proyecxx\\proyecto03\\proyecto03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718C6FF-0B05-4FA2-9046-6238E7A7BCF5}|proyecto03\\proyecto03.csproj|solutionrelative:proyecto03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proyectpython.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\proyecxx\\proyecto03\\proyectpython\\proyectpython.py",
+              "RelativeDocumentMoniker": "proyectpython\\proyectpython.py",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\proyecxx\\proyecto03\\proyectpython\\proyectpython.py",
+              "RelativeToolTip": "proyectpython\\proyectpython.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-02T16:32:23.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\proyecxx\\proyecto03\\proyecto03\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto03\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\proyecxx\\proyecto03\\proyecto03\\Program.cs",
+              "RelativeToolTip": "proyecto03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:11:02.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
